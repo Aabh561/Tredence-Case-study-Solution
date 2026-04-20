@@ -1,0 +1,46 @@
+{
+  "0.0": {
+    "lambda": 0.0,
+    "test_accuracy": 53.68,
+    "sparsity_percent": 0.0,
+    "mean_gate_value": 0.9933022856712341,
+    "memory": {
+      "dense_bytes": 13655080,
+      "csr_bytes": 20484200,
+      "bytes_saved": -6829120
+    }
+  },
+  "1e-05": {
+    "lambda": 1e-05,
+    "test_accuracy": 53.99,
+    "sparsity_percent": 0.0,
+    "mean_gate_value": 0.9933022856712341,
+    "memory": {
+      "dense_bytes": 13655080,
+      "csr_bytes": 20484200,
+      "bytes_saved": -6829120
+    }
+  },
+  "5e-05": {
+    "lambda": 5e-05,
+    "test_accuracy": 53.7,
+    "sparsity_percent": 0.0,
+    "mean_gate_value": 0.9933022856712341,
+    "memory": {
+      "dense_bytes": 13655080,
+      "csr_bytes": 20484200,
+      "bytes_saved": -6829120
+    }
+  },
+  "0.0001": {
+    "lambda": 0.0001,
+    "test_accuracy": 54.18,
+    "sparsity_percent": 0.0,
+    "mean_gate_value": 0.9933022856712341,
+    "memory": {
+      "dense_bytes": 13655080,
+      "csr_bytes": 20484200,
+      "bytes_saved": -6829120
+    }
+  }
+}

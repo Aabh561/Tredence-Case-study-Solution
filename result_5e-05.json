@@ -1,0 +1,11 @@
+{
+  "lambda": 5e-05,
+  "test_accuracy": 53.82,
+  "sparsity_percent": 0.0,
+  "mean_gate_value": 0.9933022260665894,
+  "memory": {
+    "dense_bytes": 13655080,
+    "csr_bytes": 20484200,
+    "bytes_saved": -6829120
+  }
+}
